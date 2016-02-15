@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449665511 source:c:\users\felipe\workspace codeblocks\exeb10\main.cpp
+	<iostream>
+	<stdio.h>
+

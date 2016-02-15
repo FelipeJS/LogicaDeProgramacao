@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443130547 source:c:\users\felipe\workspace codeblocks\exe3h\main.cpp
+	<iostream>
+	<iomanip>
+

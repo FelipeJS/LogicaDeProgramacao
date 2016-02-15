@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445460053 source:c:\users\felipe\workspace codeblocks\monitoriaexe3\main.c
+	<stdio.h>
+	<stdlib.h>
+
